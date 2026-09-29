@@ -1,2 +1,1 @@
-# whoop-privacy
-Privacy policy for personal WHOOP integration
+Privacy policy for my personal WHOOP integration
